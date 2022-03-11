@@ -14,6 +14,7 @@ export { default as CardA } from "./CardA";
 export { default as Ampligram } from "./Ampligram";
 export { default as CardC } from "./CardC";
 export { default as Features2x3 } from "./Features2x3";
+export { default as Frame23 } from "./Frame23";
 export { default as Features2x2 } from "./Features2x2";
 export { default as CardG } from "./CardG";
 export { default as NavBar } from "./NavBar";
